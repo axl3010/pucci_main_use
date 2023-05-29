@@ -4,7 +4,9 @@
 
   "Title": "New Update",
 
-  "Description": "Update Version 6.3 ပါနော်ဂေါင်းကြီးတို့",
+  "Description": "Update Version 6.3 ပါနော်ဂေါင်းကြီးတို့
+
+error တစ်ချို့ရယ် ads တေဖြုတ်လိုက်ပါပီ",
 
   "MainTextButton": "Update Install ",
 
@@ -12,8 +14,8 @@
 
   "CancelButtonText":"Cancel",
 
-  "DownloadLink": "https://www.mediafire.com/file/bxkb93gb53t0p2a/Dark_Pluscom.my.DarkPlusv6.3%25283%2529.apk/file",
+  "DownloadLink": "https://www.mediafire.com/file/4jh2hsgi8ktu3nx/pucci_update.apk/file",
 
-  "Version": "5.3"
+  "Version": "6.3"
 
 }
