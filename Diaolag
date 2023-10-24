@@ -1,12 +1,12 @@
 {Visibility:"VISIBLE",
   
-  tip:"App ကို Playstore မှာ review လေးရေးပေးပါဦး",
+  tip:"ERROR",
 
 title:"P u c c i",
 
-des:"Reviewပေးရန်",
+des:"error",
 
-ddd:"Review ပေးရန်",
+ddd:"",
 
  Cancelable:"true",
  
@@ -16,6 +16,6 @@ ddd:"Review ပေးရန်",
  
  out:"#FFFFFF",
  
-image:"https://www.dropbox.com/scl/fi/29x76v4u65t5hh7jyden6/IMG_20231014_102259_733.jpg?rlkey=7giua9pkwrhe3cnmi7k0ngesj&dl=1",
+image:"https://www.dropbox.com/scl/fi/w4hd4t9i26rdzmrh5eq06/Picsart_23-10-24_20-05-02-071.jpg?rlkey=s2i25ychrm7ndodzxpgfmttui&dl=1",
 
-clicks:"https://play.google.com/store/apps/details?id=com.my.Pucci"}
+clicks:""}
