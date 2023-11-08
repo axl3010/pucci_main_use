@@ -1,13 +1,13 @@
-{Visibility:"GONE",
+{Visibility:"VISIBLE",
   
-  tip:"ယူခုသုံးနေတဲ့ App မှာ Video ကြည့်မရ ၊ဒေါင်းမရဖြစ်နေရင် အခု App ကိုသုံးပါ ၊ ယခင် App ကိုဖျက်ပီးမှ install လုပ်ပါ",
+  tip:"Pucci App ကို Play store မှာ Review လေးရေးပေးကြပါဦးနော်",
 
 
 title:"P u c c i",
 
-des:"new app",
+des:"👇👇👇",
 
-ddd:"Download",
+ddd:"Review ပေးမယ်",
 
  Cancelable:"true",
  
@@ -17,6 +17,6 @@ ddd:"Download",
  
  out:"#FFFFFF",
  
-image:"https://www.dropbox.com/scl/fi/6xmwg5n0cz8o29oyfta7x/IMG_20231101_203518.png?rlkey=07srandm2j6absdw6qjtack02&dl=1",
+image:"https://www.dropbox.com/scl/fi/uohzkinkkxbfpb22a5r15/09b1d39ef857154916c5425b203eddac.jpg?rlkey=1zzzkg3f75qgs77tx84p401rk&dl=1",
 
-clicks:"https://www.mediafire.com/file/j5xc1uggyipoqeg/Pucci.apk/file"}
+clicks:"https://play.google.com/store/apps/details?id=com.my.puccci&pli=1"}
